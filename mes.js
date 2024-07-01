@@ -1,4 +1,4 @@
-let mesAniversario = 1; //Janeiro
+let mesAniversario = 1;
 
 const meses = ["Janeiro"];
 
